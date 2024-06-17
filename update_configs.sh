@@ -4,7 +4,7 @@
 CONFIG_REPO=~/my-configs
 
 # Kopiere WezTerm Konfiguration
-cp ~/.wezterm.lua $CONFIG_REPO/
+cp ~/.config/wezterm/wezterm.lua $CONFIG_REPO/
 
 # Kopiere zsh Konfigurationen
 cp ~/.zshrc $CONFIG_REPO/
