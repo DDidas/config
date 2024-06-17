@@ -30,3 +30,4 @@ move_if_exists $REPO_DIR/wezterm.lua ~/.config/wezterm/
 # Gib eine abschließende Meldung aus
 echo "Konfigurationsdateien wurden erfolgreich verschoben."
 
+
