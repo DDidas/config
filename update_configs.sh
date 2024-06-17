@@ -26,6 +26,5 @@ git add .
 DATE=$(date +"%Y-%m-%d %H:%M:%S")
 git commit -m "Update configurations at $DATE"
 
-# Pushe die Änderungen zum GitHub-Repository
-git push origin master
+
 
